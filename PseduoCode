@@ -1,0 +1,30 @@
+Create a trivia game
+
+CSS
+Align text
+    center start button
+    align left question and 4 answer choices
+    center answer result
+Fonts
+Buttons
+
+
+JavaScript:
+-Start button to begin the game
+
+-Next "page" shows one question with:
+    20 second timer
+    4 answer choices buttons
+Response to next page if:
+    time runs out or
+    answer choice button click before time runs out
+
+-Next "page" shows whether correct or not
+    Shows answer page for 10 seconds then auto move to next question
+    If incorrect, will show correct answer
+
+-Next "page" will display results
+    Correct: #
+    Incorrect: #
+
+
