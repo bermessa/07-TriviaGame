@@ -1,15 +1,12 @@
-# 07-TriviaGame
-
 Project Title
+  <b>TriviaGame</b>
 
 Build Status
+  Working! Be sure to answer the question before the timer runs out. Else, you'll get that question marked as incorrect. 
 
-Screenshots/deployment
+Deployment
+  https://bermessa.github.io/07-TriviaGame/trivia.html
 
 Tech/framework used
-
-Features
-
-Installation
-
-API Reference
+  HTML, CSS, JavaScript, jQuery. Focus: setInterval, setTimeout 
+  
