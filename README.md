@@ -1,5 +1,5 @@
 ### Project Title 
-  Georgraphy TriviaGame :sunny:
+  Geography TriviaGame :sunny:
 <br><br>
 
 ### Build Status 
