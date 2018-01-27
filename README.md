@@ -1,5 +1,5 @@
 ### Project Title 
-  <u>TriviaGame</u>
+  Georgraphy TriviaGame :sunny:
 <br><br>
 
 ### Build Status 
