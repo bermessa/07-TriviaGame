@@ -1,5 +1,5 @@
 ### Project Title 
-  <b>TriviaGame</b>
+  <u>TriviaGame</u>
 <br><br>
 
 ### Build Status 
